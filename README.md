@@ -1,5 +1,7 @@
 # Assignment 4 — Text Analysis: Dynamic Programming and String Algorithms
 
+**Author:** Baltabay Sultanali, group SE-2529
+
 A Java 17 project (no external libraries, no build tool) that implements and compares dynamic programming algorithms, string matching algorithms, and Kasai's LCP algorithm.
 
 ## 1. Problem Description and Algorithm Overview
